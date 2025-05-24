@@ -6,8 +6,7 @@ public:
     string title;
     string author;
     float price;
-
-    // Default constructor
+    
     Book() {
         title = "Unknown";
         author = "Unknown";
