@@ -5,7 +5,7 @@ class Maths
 {
 public:
     virtual void add(int a, int b) = 0;
-};
+};                       
 
 class Calculation : public Maths
 {
